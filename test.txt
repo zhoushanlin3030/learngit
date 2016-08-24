@@ -1,2 +1,2 @@
-git is a version control tool
+git is a distrbiview version control tool
 git is a free solfware
